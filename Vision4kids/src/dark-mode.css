@@ -1,0 +1,109 @@
+/* ==================================================
+   DARK MODE GLOBAL STYLES
+   ================================================== */
+
+html.dark-mode section {
+    color: #e0e0e0;
+}
+
+html.dark-mode h1, html.dark-mode h2, html.dark-mode h3, html.dark-mode h4, html.dark-mode h5, html.dark-mode h6 {
+    color: #f0f0f0;
+}
+
+html.dark-mode p {
+    color: #c0c0c0;
+}
+
+html.dark-mode .feature-card {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border: 1px solid #303030;
+}
+
+html.dark-mode .feature-card h3,
+html.dark-mode .feature-card h4 {
+    color: #f0f0f0;
+}
+
+html.dark-mode .feature-card p {
+    color: #b0b0b0;
+}
+
+html.dark-mode .dashboard-card {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border: 1px solid #303030;
+}
+
+html.dark-mode .dashboard-card h3 {
+    color: #f0f0f0;
+}
+
+html.dark-mode .dashboard-card p {
+    color: #b0b0b0;
+}
+
+html.dark-mode .testimonial-card {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border: 1px solid #303030;
+}
+
+html.dark-mode .testimonial-card h4,
+html.dark-mode .testimonial-card p {
+    color: #b0b0b0;
+}
+
+html.dark-mode .testimonial-text {
+    color: #d0d0d0;
+}
+
+html.dark-mode footer {
+    background: #0f0f1e;
+    border-top: 1px solid #303030;
+    color: #b0b0b0;
+}
+
+html.dark-mode footer h4 {
+    color: #f0f0f0;
+}
+
+html.dark-mode footer a {
+    color: #22d3ee;
+}
+
+html.dark-mode footer a:hover {
+    color: #06b6d4;
+}
+
+html.dark-mode .cta-section {
+    background: linear-gradient(135deg, #0f3460 0%, #1a1a2e 100%);
+}
+
+html.dark-mode .cta-section h2 {
+    color: #f0f0f0;
+}
+
+html.dark-mode .cta-section p {
+    color: #b0b0b0;
+}
+
+html.dark-mode .btn-primary,
+html.dark-mode .cta-btn {
+    background: linear-gradient(135deg, #818cf8 0%, #a5b4fc 100%);
+    color: white;
+}
+
+html.dark-mode .btn-primary:hover,
+html.dark-mode .cta-btn:hover {
+    background: linear-gradient(135deg, #a5b4fc 0%, #c7d2fe 100%);
+}
+
+html.dark-mode .demo {
+    color: #e0e0e0;
+}
+
+html.dark-mode .demo h2 {
+    color: #f0f0f0;
+}
+
+html.dark-mode .demo-subtitle {
+    color: #b0b0b0;
+}
