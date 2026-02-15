@@ -118,7 +118,7 @@ function App() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2024 KidSafe. All rights reserved. Protecting kids, one click at a time.</p>
+          <p>&copy; 2024 Vision4Kids. All rights reserved. Protecting kids, one click at a time.</p>
         </div>
       </footer>
     </div>

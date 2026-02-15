@@ -2,7 +2,7 @@
    DARK MODE GLOBAL STYLES
    ================================================== */
 
-html.dark-mode section {
+   html.dark-mode section {
     color: #e0e0e0;
 }
 
@@ -11,7 +11,7 @@ html.dark-mode h1, html.dark-mode h2, html.dark-mode h3, html.dark-mode h4, html
 }
 
 html.dark-mode p {
-    color: #c0c0c0;
+    color: #101010;
 }
 
 html.dark-mode .feature-card {

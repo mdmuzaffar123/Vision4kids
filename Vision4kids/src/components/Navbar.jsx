@@ -32,7 +32,7 @@ export default function Navbar() {
     <nav className="navbar">
       <div className="navbar-container">
         <div className="navbar-brand">
-          <h1>🤖 KidSafe AI</h1>
+          <h1>🤖 Vision4Kids AI</h1>
         </div>
 
         <button

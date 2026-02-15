@@ -61,7 +61,7 @@ export default function Home() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.3, duration: 0.8 }}
         >
-          KidSafe protects children below 13 from harmful online content like nudity, violence, and abuse using advanced AI-powered monitoring. Parents get real-time alerts and complete control.
+          Vision4Kids protects children below 13 from harmful online content like nudity, violence, and abuse using advanced AI-powered monitoring. Parents get real-time alerts and complete control.
         </motion.p>
 
         <motion.div
@@ -83,7 +83,7 @@ export default function Home() {
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
         >
-          Why Parents Trust <span>KidSafe</span>
+          Why Parents Trust <span>Vision4Kids</span>
         </motion.h2>
 
         <motion.p
